@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/fyrhythm/Desktop/data/sqljdbc_2.0/enu/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/iText-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/jcommon-1.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/jfreechart-1.0.10.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/jfreechart-1.0.10-experimental.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/jfreechart-1.0.10-swt.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/junit.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/servlet.jar"/>
+	<classpathentry kind="lib" path="D:/迅雷下载/jfreechart-jar/jfreechart-jar/swtgraphics2d.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
