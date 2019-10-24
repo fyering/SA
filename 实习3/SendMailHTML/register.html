@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>注册界面</title>
+    <script src="javascript.js"></script>
+</head>
+<body>
+<div id="container" style="width: 400px" align="center">
+    <div id="header" style="background-color: aquamarine">
+        <h2 align="center">注册</h2>
+    </div>
+    <div id="content">
+        <p align="center">账号:
+            <input id="uname" type="text" name="user" placeholder="账号为你的邮箱地址">
+        </p>
+        <p align="center">密码:
+            <input id="upass" type="password" name="psw" placeholder="请输入密码">
+        </p>
+        <p align="center">验证码:
+            <input id="uyanz" type="text" name="yzm" placeholder="请输入验证码">
+        </p>
+        <div id="error_box"><br></div>
+        <br>
+
+        <button onclick="fnregist()" class="btn btn-info">注册</button>
+        <button onclick="sendyzm()" class="btn btn-info">发送验证码</button>
+    </div>
+</div>
+</body>
+</html>
